@@ -1,2 +1,2 @@
 # RacingBarChart
-A racing bar chart showing FAA aircraft registration locations over time.
+A racing bar chart showing FAA aircraft airworthiness registration locations over time. Tutorial at https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41 used to walk through steps. Data accessed at www.faa.gov and field created for NTSB regional assignments to group states.
